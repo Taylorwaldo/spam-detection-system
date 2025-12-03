@@ -30,7 +30,7 @@ Output:
 FINAL VERDICT: Spam
 ```
 
-### Option 2: GUI Demo (Best for Video)
+### Option 2: GUI Demo  
 
 ```bash
 streamlit run app.py
@@ -58,14 +58,6 @@ python link_detector.py test_emails/test_spam.txt
 python unsubscribe_detector.py test_emails/test_spam.txt
 ```
 
-## For Your Video
-
-1. Run: `streamlit run app.py`
-2. Show the clean interface
-3. Test with spam email (show "SPAM" verdict)
-4. Test with legitimate email (show "NOT SPAM" verdict)
-5. Highlight how each detection method contributed
-
 ## Project Structure Quick Reference
 
 ```
@@ -81,35 +73,4 @@ Data files:
 - training_emails/        ← 10 spam examples
 - test_emails/            ← Test cases
 ```
-
-## The Three Methods Explained Simply
-
-1. **Signature-Based**: Creates a unique hash of the email and checks if we've seen it before in our spam database
-
-2. **Link Analysis**: Checks if links use HTTPS (secure) and have valid SSL certificates
-
-3. **Unsubscribe Link**: Legitimate marketing emails must have unsubscribe options by law; spam often doesn't
-
-**Decision Logic**: If 2 or more methods flag the email as suspicious, it's classified as SPAM.
-
-## Troubleshooting
-
-**"Module not found" error:**
-```bash
-pip install streamlit
-```
-
-**No spam signatures:**
-```bash
-python setup.py
-```
-
-**Link analyzer takes long:**
-- Normal! It's checking SSL certificates which can timeout after 5 seconds
-
-## Tips for Your Report
-
-- Emphasize the modular design (each detection method is separate)
-- Show how the voting system reduces false positives
-- Include screenshots of both command-line and GUI versions
-- Demonstrate with at least 3-4 different test emails
+ 
