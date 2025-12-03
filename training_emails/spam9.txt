@@ -1,0 +1,18 @@
+From: delivery@fedex-tracking.com
+Subject: Failed Package Delivery Attempt
+
+Dear Customer,
+
+We attempted to deliver your package but no one was home.
+
+Your package is being held at our facility.
+
+Track your package: http://fedex-track.net/package
+
+Reschedule delivery by providing:
+- Full name
+- Address
+- Phone number
+- Credit card for redelivery fee ($2.99)
+
+Schedule redelivery: http://package-delivery.biz/schedule

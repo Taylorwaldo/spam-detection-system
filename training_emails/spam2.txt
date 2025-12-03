@@ -1,0 +1,23 @@
+From: urgent@account-verify.info
+Subject: URGENT: Your Account Will Be Suspended
+
+Dear Customer,
+
+Your account has been flagged for suspicious activity!
+
+We detected unauthorized access from an unknown location.
+
+IMMEDIATE ACTION REQUIRED!
+
+Click here to verify your account: http://192.168.1.1/verify-account
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Enter your:
+- Username
+- Password
+- Security questions
+
+Verify now: http://account-security.biz/login
+
+This is an automated message. Do not reply.

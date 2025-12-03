@@ -1,0 +1,27 @@
+From: no-reply@github.com
+Subject: [GitHub] Security alert: New sign-in from Windows device
+
+Hi taylorwaldo,
+
+A new sign-in to your GitHub account was detected.
+
+Device: Windows Desktop
+Location: Wilmington, North Carolina, US
+Time: December 3, 2024 at 10:30 AM EST
+
+If this was you, you can safely ignore this email.
+
+If this wasn't you, please secure your account immediately:
+https://github.com/settings/security
+
+Review your recent activity: https://github.com/settings/security-log
+
+Questions? Visit our Help Center: https://support.github.com
+
+---
+You're receiving this email because you have security alerts enabled.
+Update your notification preferences: https://github.com/settings/notifications
+Unsubscribe from these emails: https://github.com/unsubscribe
+
+GitHub, Inc.
+88 Colin P Kelly Jr St, San Francisco, CA 94107

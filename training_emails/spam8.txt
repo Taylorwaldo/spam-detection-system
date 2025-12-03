@@ -1,0 +1,18 @@
+From: tax@irs-refund.gov
+Subject: IRS Tax Refund Notification
+
+URGENT: You have a pending tax refund of $2,847.00
+
+The IRS has determined you are eligible for an immediate refund.
+
+Claim your refund here: http://irs-refund.net/claim
+
+Provide:
+- Social security number
+- Date of birth
+- Bank routing number
+- Account number
+
+Claim expires in 48 hours!
+
+Process refund: http://tax-refund.biz/process

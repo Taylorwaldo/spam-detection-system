@@ -1,0 +1,20 @@
+From: support@paypal-security.org
+Subject: Your PayPal Account Has Been Limited
+
+Dear PayPal User,
+
+Your account has been limited due to suspicious activity.
+
+To restore full access, verify your information immediately.
+
+Click here: http://paypal-verify.net/account
+
+You must provide:
+- Credit card number
+- CVV code
+- Billing address
+- ATM PIN
+
+Failure to verify will result in permanent account closure.
+
+Verify now: http://secure-paypal.biz/login

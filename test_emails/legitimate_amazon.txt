@@ -1,0 +1,23 @@
+From: newsletter@amazon.com
+Subject: Your Amazon Order Shipped
+
+Hello Taylor,
+
+Great news! Your order #123-4567890-1234567 has shipped.
+
+Order Details:
+- Product: Wireless Headphones
+- Expected Delivery: December 10, 2024
+
+Track your package: https://www.amazon.com/track/package
+
+Need help? Visit our Help Center: https://www.amazon.com/help
+
+Thank you for shopping with Amazon!
+
+---
+To manage your email preferences or unsubscribe from promotional emails:
+https://www.amazon.com/preferences/unsubscribe
+
+Amazon.com, Inc.
+410 Terry Ave N, Seattle, WA 98109

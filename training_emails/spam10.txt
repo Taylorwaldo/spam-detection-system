@@ -1,0 +1,18 @@
+From: security@microsoft-alert.com
+Subject: Microsoft Security Alert - Virus Detected
+
+CRITICAL SECURITY ALERT!
+
+We detected 3 viruses on your computer!
+
+Your system is at risk!
+
+Download our security tool immediately: http://virus-removal.net/download
+
+Click here to scan: http://microsoft-security.biz/scan
+
+DO NOT IGNORE THIS WARNING!
+
+Your computer will be permanently damaged if you do not act now!
+
+Download now: http://security-tool.net
